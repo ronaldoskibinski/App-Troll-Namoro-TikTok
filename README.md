@@ -1,4 +1,7 @@
 # App-Troll-Namoro-TikTok
+
+Mobile Simplificado https://codepen.io/RonaldsSTARK/pen/bGMdbyq
+
 Código do aplicativo do vídeo https://codepen.io/RonaldsSTARK/pen/ExLjYgQ
 
 Passo 1: Abrir o site Codepen: https://codepen.io/pen/
