@@ -11,4 +11,4 @@ Passo 4: Inserir o codigo Javascript (https://github.com/ronaldoskibinski/App-Tr
 
 Passo 5: Inserir o JQUERY nas settings
 
-Passo 5: Rodar o site!
+Passo 6: Rodar o site!
